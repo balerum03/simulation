@@ -1,5 +1,3 @@
-Sure! Here is a sample README file for your project:
-
 # Distributed Consensus Simulation
 
 This project simulates a distributed system where multiple nodes communicate with each other to achieve consensus on a shared state. It uses a simplified consensus mechanism instead of complex algorithms like Raft or Paxos. The simulation handles network partitions and node failures gracefully and logs state transitions and messages exchanged between nodes.
